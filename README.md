@@ -1,2 +1,2 @@
-# privacypolicy
-This is the privacy policy of the company Proposals Inc.
+# Privacy Policy
+This is the Privacy Policy of company Proposals Inc.
